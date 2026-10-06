@@ -26,6 +26,10 @@ npm run dev:h5
 npm run dev:mp-weixin
 ```
 
+## 离线界面预览
+
+无需安装依赖，直接打开 `preview/index.html` 即可体验训练、日记、回顾和设置流程。该独立预览把数据保存在浏览器本地存储中；正式 H5/微信构建仍通过上面的 uni-app 命令生成。
+
 构建：`npm run build:h5` 或 `npm run build:mp-weixin`。微信小程序发布前，请在 `src/manifest.json` 填入小程序 AppID。
 
 ## 数据与提醒
