@@ -1,0 +1,17 @@
+{
+  "name": "入梦",
+  "appid": "__UNI__LUCIDDREAM",
+  "description": "温和的清醒梦练习与梦境记录工具",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "title": "入梦 · 清醒梦练习",
+    "router": { "mode": "hash" }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": { "urlCheck": false },
+    "usingComponents": true
+  }
+}
